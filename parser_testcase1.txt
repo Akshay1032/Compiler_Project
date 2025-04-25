@@ -1,0 +1,6 @@
+_main
+%This is a comment
+    type int : b6;
+    b6 <--- 1;
+return;
+end
